@@ -10,8 +10,9 @@
 <p align="center"><i>Projeto feito para um cliente local</i></p>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/104803451/212524931-c58660dd-caff-4fff-88ae-53f58b3e72ff.png" />
+<img width="400" src="https://user-images.githubusercontent.com/104803451/212525430-0e1c6c84-b55d-4f23-9dea-cc4e2b7aa7ce.png" />
 </div>
+
 
 
 ### Technologies
@@ -59,7 +60,5 @@ vite build
 ---
 
 ## References
-
-[Deploy vercel - App](http://sharenergy-challenge-front-end-static.vercel.app/)
 
 [About technology - React Docs](https://pt-br.reactjs.org/)
