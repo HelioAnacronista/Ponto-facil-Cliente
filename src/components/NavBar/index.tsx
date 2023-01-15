@@ -3,7 +3,7 @@ import { DropdownComponent } from "../DropdownComponent";
 export function NavBar() {
   return (
     <>
-      <div className="flex mx-auto">
+      <div className="hidden lg:flex">
         <DropdownComponent subTitle="Eletrodomésticos" title="Eletronicos" />
         <DropdownComponent subTitle="Eletrodomésticos" title="Produtos" />
         <DropdownComponent subTitle="Eletrodomésticos" title="Tigolo" />
